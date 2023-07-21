@@ -1,0 +1,15 @@
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\bin\Debug\net7.0\MentoriaTabuada.exe
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\bin\Debug\net7.0\MentoriaTabuada.deps.json
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\bin\Debug\net7.0\MentoriaTabuada.runtimeconfig.json
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\bin\Debug\net7.0\MentoriaTabuada.dll
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\bin\Debug\net7.0\MentoriaTabuada.pdb
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\MentoriaTabuada.csproj.AssemblyReference.cache
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\MentoriaTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\MentoriaTabuada.AssemblyInfoInputs.cache
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\MentoriaTabuada.AssemblyInfo.cs
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\MentoriaTabuada.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\MentoriaTabuada.dll
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\refint\MentoriaTabuada.dll
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\MentoriaTabuada.pdb
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\MentoriaTabuada.genruntimeconfig.cache
+C:\Users\RodrigoPereiradeCarv\MentoriaTabuada\MentoriaTabuada\obj\Debug\net7.0\ref\MentoriaTabuada.dll
